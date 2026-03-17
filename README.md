@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Saksham Bhardwaj! 👋</h1>
 
 <p align="center">
-  <em>Electronics & Communication Student | Aspiring Data Analyst | Frontend Developer</em>
+  <em>Electronics & Communication Student | Aspiring Data Analyst | Software Engineer</em>
 </p>
 
 ---
@@ -10,7 +10,7 @@
 
 I'm **Saksham Bhardwaj**, a motivated final-year **B.Tech (Electronics & Communication)** student at **Raja Balwant Singh Engineering Technical Campus, Agra**, with a CGPA of **7.6**.
 
-I have practical experience in **data analysis**, **data visualization**, and **frontend development** through internships and hands-on projects. I'm passionate about using data-driven insights to solve real-world problems and actively seeking an entry-level **Data Analytics** role where I can learn, grow, and contribute.
+I have practical experience in **data analysis**, **data visualization**, and **software development** through internships and hands-on projects. I'm passionate about using data-driven insights to solve real-world problems and actively seeking an entry-level **Data Analytics** role where I can learn, grow, and contribute.
 
 ---
 
@@ -38,5 +38,5 @@ I have practical experience in **data analysis**, **data visualization**, and **
 ## 📬 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/saksham-bhardwaj-88704728b/)
-- 📧 [Email](mailto:sakshams914@gmail.com)
+- 📧 sakshams914@gmail.com
 - 🌐 [Portfolio](https://saksham-portfol-io.lovable.app)

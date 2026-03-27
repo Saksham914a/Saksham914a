@@ -30,7 +30,7 @@ I have practical experience in **data analysis**, **data visualization**, and **
 * **Python Libraries:** NumPy, Pandas, Matplotlib, Seaborn
 * **Data & Analytics:** Data Analysis, Data Visualization, Data Interpretation
 * **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming
-* **Tools & Technologies:** Git, VS Code, Tableau, Power BI, Excel
+* **Tools & Technologies:** Git, VS Code, Tableau, Power BI, Excel, ReactJS
 * **Soft Skills:** Active Listener, Problem Solving, Team Player
 
 ---
